@@ -17,3 +17,7 @@ p {
   width: 1em;
   height: 1em;
 }
+
+p {
+  transition: all 0.5s;
+}
